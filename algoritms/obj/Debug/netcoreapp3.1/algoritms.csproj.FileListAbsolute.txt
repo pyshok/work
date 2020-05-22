@@ -1,0 +1,13 @@
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms.deps.json
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms.runtimeconfig.json
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms.runtimeconfig.dev.json
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms.dll
+/home/pasha/Documents/C#/akvelon/algoritms/bin/Debug/netcoreapp3.1/algoritms.pdb
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.csprojAssemblyReference.cache
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.AssemblyInfoInputs.cache
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.AssemblyInfo.cs
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.csproj.CoreCompileInputs.cache
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.dll
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.pdb
+/home/pasha/Documents/C#/akvelon/algoritms/obj/Debug/netcoreapp3.1/algoritms.genruntimeconfig.cache
